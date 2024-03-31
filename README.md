@@ -3,7 +3,9 @@ Steps followed:
 1.	npm create vite@latest
    
 √ Project name: ... secure-aadhar-dapp
+
 √ Select a framework: » React
+
 √ Select a variant: » JavaScript
 
 3.	cd secure-aadhar-dapp
