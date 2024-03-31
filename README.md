@@ -14,7 +14,7 @@ Steps followed:
 6.	npm i dotenv
 7.	npm i react-router-dom
 8.	Creating front-end files and folders in src
-9.	Creatimg .env file in the main folder
+9.	Creating .env file in the main folder
 10.	npm i @fortawesome/free-solid-svg-icons
 11.	npm i @fortawesome/react-fontawesome
 12.	npm i react-toastify
