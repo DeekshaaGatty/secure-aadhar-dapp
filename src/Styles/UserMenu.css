@@ -1,0 +1,78 @@
+/* Title */
+.usermenu-siteTitle a {
+    text-decoration: none;
+    color: #f0f3f6;
+    font-size: 48px;
+    letter-spacing: .8px;
+}
+.usermenu-siteTitle {
+    padding: 10px 0 10px 0;
+    border-radius: 2px;
+    background-color: rgb(75, 140, 251);
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.usermenu-steps {
+ text-align: justify;
+ padding: 32px;
+}
+
+.usermenu-section-title {
+    font-family: 'Poppins', sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    color: black;
+}
+.usermenu-section-title > span {
+    position: relative;
+}
+.usermenu-section-title span::before {
+    content: '';
+    position: absolute;
+    width: 75%;
+    height: 4px;
+    background-color: #9D2553;
+    border-radius: 8px;
+    left: 0;
+    bottom: -12px;
+}
+
+.usermenu-steps {
+    background: linear-gradient(to right, #b7dae9, #fafafa);
+}
+
+.usermenu-title {
+    color:rgb(8, 8, 8);
+    margin: 16px 0;
+    padding: 0 0 2px 0;
+    border-bottom: 2px solid grey;
+    font-family: 'Rubik', sans-serif;
+    font-size: 26px;
+    font-weight: 550;
+    letter-spacing: .8px;
+}
+
+#fileUrl:link, #fileUrl:visited {
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+
+/* Footer */
+.usermenu-footer {
+    padding: 24px 40px;
+    display: block;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: .8px;
+    line-height: 1.6rem;
+    background-color: #1B2433;
+    text-align: left;
+}
+
